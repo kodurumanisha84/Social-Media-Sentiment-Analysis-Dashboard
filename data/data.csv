@@ -1,0 +1,63 @@
+text,sentiment
+"I love this",positive
+"I really like it",positive
+"I like it a lot",positive
+"This is wonderful",positive
+"It's wonderful",positive
+"Absolutely amazing experience",positive
+"Very happy with this",positive
+"Highly recommend this product",positive
+"Great quality and fast delivery",positive
+"Superb performance",positive
+"Excellent work",positive
+"Fantastic and easy to use",positive
+"I am satisfied",positive
+"This made my day",positive
+"Best purchase ever",positive
+"Very good and reliable",positive
+"Loved it",positive
+"Impressive features",positive
+"Works perfectly",positive
+"Five stars",positive
+
+"I hate this",negative
+"I don't like this",negative
+"I didn’t like it",negative
+"I do not like it",negative
+"This is not good",negative
+"Not good at all",negative
+"Very bad experience",negative
+"Terrible service",negative
+"Worst product ever",negative
+"Completely useless",negative
+"Very disappointing",negative
+"Poor quality",negative
+"Waste of money",negative
+"Not satisfied with this",negative
+"Awful and buggy",negative
+"It keeps crashing",negative
+"Bad design",negative
+"Slow and frustrating",negative
+"I will not recommend this",negative
+"One star",negative
+
+"It is okay",neutral
+"Average experience",neutral
+"Nothing special",neutral
+"Just fine",neutral
+"It works as expected",neutral
+"Okay, not great",neutral
+"Neither good nor bad",neutral
+"Pretty normal",neutral
+"Decent overall",neutral
+"Could be better",neutral
+"Not bad",neutral
+"Fair enough",neutral
+"So-so experience",neutral
+"Acceptable quality",neutral
+"Meets expectations",neutral
+"Neutral feelings about this",neutral
+"It is fine",neutral
+"Average quality",neutral
+"Moderate performance",neutral
+"Three stars",neutral
